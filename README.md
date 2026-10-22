@@ -2,8 +2,6 @@
 
 ![Waving animation](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## Python, C#
-
 I'm currently studying Python and C#, with a strong interest in both high-level and low-level programming. I want to deepen my understanding of programming concepts, from high-level application development to low-level systems programming.
 
 - 🌍 I'm based in Halesowen
